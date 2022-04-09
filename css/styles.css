@@ -129,8 +129,8 @@ span {
 .nav-item .link.current {
   color: var(--accent-text-color);
 }
-
-.header-mail {
+(верх)це залишаю на потім,
+стосується портфоліо .header-mail {
   transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 
   display: flex;
