@@ -432,7 +432,7 @@ span {
 .checkbox__input:checked + .checkbox__span > .checkbox__icon {
   background-color: #2196f3;
   border-color: #2196f3;
-  background-image: url("/images/icons/icon-check.svg");
+  background-image: url("../images/icons/icon-check.svg");
   background-origin: border-box;
   background-size: contain;
 }
