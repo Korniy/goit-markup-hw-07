@@ -181,7 +181,7 @@ span {
 }
 
 .page-hero {
-  max-width: 1600;
+  width: 1600;
   height: 600;
   margin-left: auto;
   margin-right: auto;
